@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wen Ni.
 - 👀 I’m interested in Data Analytic and Business Analytic
-- 🌱 I’m currently learning Artificial Intelligence courses
+- 🌱 I’m currently learning Artificial Intelligence courses at Technical University of Malaysia (UTeM)
 
 
 <!---
