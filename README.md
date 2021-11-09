@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Wen Ni.
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analytic and Business Analytic
+- 🌱 I’m currently learning Artificial Intelligence courses
+
 
 <!---
 Wennilim/Wennilim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
