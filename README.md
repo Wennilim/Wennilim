@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytic and Business Analytic
 - 🌱 I’m currently learning Artificial Intelligence courses at Technical University of Malaysia (UTeM)
 
-## Stats
+<!--## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wennilim&count_private=true&show_icons=true&theme=gruvbox)
 
@@ -17,7 +17,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wennilim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 
 <!---
 Wennilim/Wennilim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
