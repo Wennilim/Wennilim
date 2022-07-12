@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wen Ni.
-- 👀 I’m interested in Data Analytic and Business Analytic
+- 👀 I’m interested in Data Analytic, Business Analytic and Mobile Application Development
 - 🌱 I’m currently learning Artificial Intelligence courses at Technical University of Malaysia (UTeM)
 
 <!--## Stats
