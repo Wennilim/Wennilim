@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wen Ni.
 - 👀 I’m interested in Data Science and Web & Mobile Application Development
-- 🌱 I’m currently learning Artificial Intelligence courses at Technical University of Malaysia (UTeM)
+- 🌱 I’m currently taking Artificial Intelligence courses at Technical University of Malaysia (UTeM)
 
 <!--## Stats
 
