@@ -1,6 +1,6 @@
 - 👋 Hello, I am Wen Ni.
-- 👀 I work as a software engineer.
-- 🌱 I have successfully completed my studies at the Technical University of Malaysia (UTeM).
+- 🔬 I work as a software engineer.
+- 🎓 I have successfully completed my studies at the Technical University of Malaysia (UTeM).
 
 <!--## Stats
 
